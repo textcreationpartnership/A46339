@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ivdges jvdgement a speech penn'd in the beginning of the Parliament against the iudges.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46339</idno>
+            <idno type="STC">Wing J1168</idno>
+            <idno type="STC">ESTC R16290</idno>
+            <idno type="EEBO-CITATION">12724889</idno>
+            <idno type="OCLC">ocm 12724889</idno>
+            <idno type="VID">66314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 694:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ivdges jvdgement a speech penn'd in the beginning of the Parliament against the iudges.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Aston,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Judges --  England.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66314:1"/>
+            <!-- PDF PAGE 34 -->
+            <pb facs="tcp:66314:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>THE IVDGES JVDGEMENT A SPEECH Penn'd in the beginning of the Parliament againſt the Iudges.</p>
+            <q>Per ignotum quendum.</q>
+            <p>Printed for <hi>John Aſton;</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:66314:2"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="1" facs="tcp:66314:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <head>A SPEECH Againſt the Judges <hi>per Jgno<g ref="char:EOLhyphen"/>tum quendam.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>IT was a cuſtome amongſt the <hi>Romans</hi> (who as by their power they once gave lawes, ſo by the happy ſucceſſe of their long flouriſhing Go<g ref="char:EOLhyphen"/>vernment, might they well give examples to all the world) that in their Senates the youngeſt men ſpake firſt: partly that they might not have their weaker notions anticipated by the more knowing Senators. And partly for that the Senate might not be diverted fro<g ref="char:cmbAbbrStroke">̄</g> the mature reſolutions of the more Antient by the interpoſitions of the younger men; They as all free States ever allowing free members to expreſſe themſelves according to their ſeverall capacities. And me thinkes t'was a happy Method. So your opinions and inclinations of the Aſſembly being diſcovered and ripened to reſolu<g ref="char:EOLhyphen"/>tion by ſuch gradations, the ſentences of the Sages ſounded as Judgements, not orations, their wiſdome
+<pb n="2" facs="tcp:66314:3"/>
+               <!-- PDF PAGE 36 -->and gravity put a ſeaſonable Period to others, per<g ref="char:EOLhyphen"/>haps otherwiſe endleſſe diſcourſes.</p>
+            <p>Their precedent encourages me, (who worſt may) to breake the Ice: Children can lay their fingers on the Sore, poynt out their paine; and Infant Graduates in Parliament may groane out the grievances of a diſeaſed Common-wealth, but they muſt be Doctors in the Art of government that can apply apt remedies to recover it.</p>
+            <p>Mr. <hi>Speaker,</hi> Antient and approved hath beene that Parallel of the body politique with the bo<g ref="char:EOLhyphen"/>dy naturall: 'Tis the part of the Patients in either diſtempered, to impart freely their griefes to the Phyſitians of the body or ſtate, if they expect a cure.</p>
+            <p>This Common-wealth is (or ſhould be) but one body. This houſe the great Phyſitian of all our ma<g ref="char:EOLhyphen"/>ladies, and alas Mr. <hi>Speaker,</hi> of what afflicted part ſhall we poore Patients complaine firſt? Or ra<g ref="char:EOLhyphen"/>ther of what ſhall we not complaine?</p>
+            <p>Are we not heart-ſick? Is there in us that which God requires, unity, purity, &amp; ſingularity of heart? Nay is not Religion (the ſoule of this body) ſo miſerably diſtracted, that I ſpeake it with terrour of heart, 'tis to be feared there is more confuſion of <hi>Religions</hi> amongſt us, then there was of tongues at the ſubverſion of <hi>Babell:</hi> And is it not then high time that we underſtand one another, that we were reduc'd to one <hi>Faith,</hi> one <hi>Government.</hi>
+            </p>
+            <p>Sir, <hi>Is the head whole:</hi> The ſeate of <hi>Government</hi> and <hi>Juſtice,</hi> the <hi>Fountaine</hi> from whoſe ſweet in<g ref="char:EOLhyphen"/>fluence
+<pb n="3" facs="tcp:66314:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 36 -->all the inferiour members of this body ſhould receive both vigour and motion: Nay, hath not rather a generall Apoplexie, or Palſie, taken, or ſhaken all our members? Are not ſome dead? Others buried quick? Some diſmembred, all diſ<g ref="char:EOLhyphen"/>ordered by the diverſion of the courſe of <hi>Juſtice.</hi>
+            </p>
+            <p>Is the <hi>Liver</hi> (Natures exchequer) open; from whoſe free diſtribution each limbe may receive his proper Nutriment, or rather is it not wholly ob<g ref="char:EOLhyphen"/>ſtructed? Our property taken from us? So that it may, Properly be ſaid of us. <hi>Sic vos non vobis fer<g ref="char:EOLhyphen"/>tis aratra,</hi> our Anceſtors drunke the juyce of their owne Vines, reap'd and eate the fruit of their own harveſt. But now the poore mans Plough goes to furrow the Seas, to build Ships: wee labour not for our ſelves but to feed excreſſions of Nature, things growne up out of the Ruines of the natu<g ref="char:EOLhyphen"/>rall members. <hi>Monopoliſts.</hi>
+            </p>
+            <p>Sir, Theſe are <hi>Maxime vitalia;</hi> Religion, Ju<g ref="char:EOLhyphen"/>ſtice property; The heart, the head, the <hi>Liver</hi> of this great body, and theſe diſtempered or obſtru<g ref="char:EOLhyphen"/>cted, can the ſubordinate parts be free? No Sir, the truth is; all is ſo farre out of frame, that to lay open every particular grievance were to drive us into deſpaire of cure: In ſo great confuſion where to begin firſt, requires not much leſſe care then what to apply.</p>
+            <p>Mr. <hi>Speaker,</hi> I know 'tis a plauſible moti<g ref="char:EOLhyphen"/>on to begin with ſetting Gods houſe in order firſt: who preſſes that moves with ſuch advantage, that hee is ſure no man
+<pb n="4" facs="tcp:66314:4"/>
+               <!-- PDF PAGE 37 -->will gain-ſay him. 'Tis a wel becomming zeale to preferre Religion before our owne affayres, and indeed 'tis a duty not to be omitted; where they are in equall danger: But in cure of the body politique or naturall wee muſt ſtill preferre the moſt preſſing exigents.</p>
+            <p>Phyſitians know that Conſumptions, Dropſies, and ſuch like lingering diſeaſes are more mortall, more difficult to cure the<g ref="char:cmbAbbrStroke">̄</g> ſlight externall wounds: yet if the leaſt Veyne be cut, they muſt neglect their greater cures to ſtop that, which if neglected muſt needs exhauſt the ſtock of nature, and pro<g ref="char:EOLhyphen"/>duce a diſſolution of the whole man.</p>
+            <p>
+               <hi>A Defection</hi> from the duties of our Religion is a Conſumption to any State, no foundation is firme that is not laid in Chriſt.</p>
+            <p>
+               <hi>The Deniall</hi> of Juſtice, the abridgment of our li<g ref="char:EOLhyphen"/>berties, is ſuch an obſtruction as renders the Com<g ref="char:EOLhyphen"/>mon-wealth <hi>Leaprous; but the wounds</hi> in our pro<g ref="char:EOLhyphen"/>perty let's out the life-blood of the people.</p>
+            <p>
+               <hi>The Reformation</hi> of <hi>Church-government</hi> muſt ne<g ref="char:EOLhyphen"/>ceſſarily be a worke of much time, and God be thanked the diſeaſe is not deſperate; <hi>We ſerve one God, we believe in one Chriſt, and we all acknowledge and profeſſe one Goſpell.</hi> The difference is onely <hi>de modo,</hi> we vary but in Ceremonies to reduce, which to the Primitive practice, muſt be a worke of great debate, is not a worke for us alone to ſettle.</p>
+            <p>
+               <hi>The ſtop</hi> of Iuſtice, can yet <hi>Injure</hi> but particulars, <hi>'Tis true, there may be many, too many inſtances of ſtrange oppreſſions, great oppreſſors,</hi> but 'twill be hard to judge the Concluſion. <hi>Et ſic de caeteris</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:66314:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 37 -->
+But take from us the propriety of our eſtates, our ſubſiſtence, we are no more a people. This is that veyne which hath bin ſo deepe cut, ſo farre exhauſt, that to preſerve our being, we muſt doubt<g ref="char:EOLhyphen"/>leſſe firſt ſtop this current: Then ſettle <hi>Rules</hi> to live by, when we are ſure to live.</p>
+            <p>Mr. <hi>Speaker,</hi> he that well weighs this little word property, or propriety in our eſtates, will find it of a large extent; The <hi>Leeches</hi> that have ſuckt this bloud, have bin <hi>Exciſe, Benevolences, Loanes, Impoſi<g ref="char:EOLhyphen"/>tions, Monopolies, Military Taxes, Ship-money (cum multis aliis)</hi> all which ſpring from one Roote.</p>
+            <p>And is it not high time to grub up that Roote that brings forth ſuch fruit? Shall we firſt ſtand to lop the branches one by one, when we may down with all at once? He that to correct an evill tree, that brings forth bad fruit ſhall begin at the Ma<g ref="char:EOLhyphen"/>ſter bough, and ſo lop downwards, is in danger to fall himſelfe before the Tree falls. The ſafer and ſpeedier way is to begin at the Roote, and there with ſubmiſſion to better judgments would I lay to the Axe.</p>
+            <p>The Root of moſt of our preſent miſchiefes, and the ruine of all poſterity, doe I hold, to be that ex<g ref="char:EOLhyphen"/>trajudiciall (Judgment I cannot ſay, but rather) doome delivered by all the Judges under their hands out of Court yet recorded in all Courts, to the ſubverſion of all our fundamentall <hi>Lawes, Li<g ref="char:EOLhyphen"/>berties,</hi> and <hi>Annihilation,</hi> if not <hi>Confiſcation</hi> of our eſtates. That in caſe of danger, the King may im<g ref="char:EOLhyphen"/>poſe upon his Subjects, and that hee is the Sole
+<pb n="6" facs="tcp:66314:5"/>
+               <!-- PDF PAGE 38 -->Judge of the danger, neceſſity &amp; proportion, which in briefe, is to take what, when, and where he will, which though delivered in the time of a gracious and mercifull Prince, who we hope will not wreſt it beyond our abilities, yet left to the <hi>Interpretati<g ref="char:EOLhyphen"/>on</hi> of a ſucceeding Tyrant, if ever this Nation bee ſo unfortunate to fall into the hands of ſuch; it is a Record wherein every man may read himſelfe a ſlave that reads it, having nothing he can call his owne, all proſtitute to the will of another.</p>
+            <p>What to doe in ſuch a caſe we are not to ſeeke for precedents, our Honourable Anceſtors taught us in the juſt and exemplar puniſhments of chiefe <hi>Juſtice, Treſilian</hi> and his Complices (for giving their <hi>Judgments</hi> out of <hi>Parliament,</hi> againſt the e<g ref="char:EOLhyphen"/>ſtabliſhed <hi>Lawes</hi> of <hi>Parliament</hi>) how tender they were of us, how carefull wee ought to be to conti<g ref="char:EOLhyphen"/>nue thoſe Lawes, to preſerve the Liberty of our Poſterity.</p>
+            <p>I am far from maligning the perſon, not in my heart wiſh I the Execution of any man, but cer<g ref="char:EOLhyphen"/>tainly it ſhall bee a <hi>Iuſtice</hi> well becomming this Houſe, to lay their Heads at his Majeſties mercie, who had laid us under his feet, who had made us but Tenants at will of our Liberties and Eſtates.</p>
+            <p>And though I cannot but approve of Mercy, as a great Vertue in any Prince, yet I heartily pray it may prove a Precedent as ſafe and uſefull to this oppreſſed State, as that of Juſtice.</p>
+            <p>Mr. <hi>Speaker,</hi> blaſted may that Tongue be that ſhall in the leaſt degree derogate from the Glory
+<pb n="7" facs="tcp:66314:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 38 -->of thoſe Halcyon dayes our Fathers enjoyed, du<g ref="char:EOLhyphen"/>ring the Government of that ever bleſſed, never to be forgot Royall <hi>Elizabeth.</hi> But certainly I may ſafely ſay (without detraction) it was much advan<g ref="char:EOLhyphen"/>tage to the peace and proſperity of her Raign, that the great Examples of <hi>Empſon</hi> and <hi>Dudley,</hi> were then freſh in Memory: <hi>The Civility</hi> of our <hi>Lawes</hi> tell us, that Kings can doe no wrong, and then is the State ſecure, when Judges (their Miniſters) dare doe none. Since our times have found the want of ſuch examples, 'tis fit we leave ſome to Poſterity. God forbid all ſhould be thought or found guilty, there are doubtleſſe ſome Ring-leaders, let us ſift out them. <hi>In publique</hi> Government to paſſe by the Nocent is equall injuſtice, as to puniſh the <hi>Inno<g ref="char:EOLhyphen"/>cent.</hi> An omiſſion of that duty now, will be a guilt in us, render us ſham'd in Hiſtory, curſt by Poſte<g ref="char:EOLhyphen"/>rity, our gracious and (in that act of voluntary Ju<g ref="char:EOLhyphen"/>ſtice) moſt glorious King, hath given up to the ſa<g ref="char:EOLhyphen"/>tiſfaction of his afflicted People, the Authors of their Ruines: the power of future preſervation is now in us. <hi>Et qui non ſervat patriam, cum poteſt, idem facit deſtruenti patriam.</hi>
+            </p>
+            <p>What though we cannot reſtore the dammage of the <hi>Common-wealth,</hi> wee may yet repaire the breaches in the bounds of Monarchy. Though it be with our loſſe and charge, wee ſhall ſo leave our childrens children, fenced as with a wall of ſafety; by the reſtauration of our Lawes, to their antient Vigor and Luſtre.</p>
+            <p>
+               <pb n="8" facs="tcp:66314:6"/>
+               <!-- PDF PAGE 39 -->
+'Tis too true, that 'tis to be feared, the Revenues of the Crowne ſold out-right, would ſcarce remu<g ref="char:EOLhyphen"/>nerat the injuries, repay the loſſes of this ſuffe<g ref="char:EOLhyphen"/>ring Nation, ſince the pronouncing of that fatall Sentence. What proportionable ſatiſfaction then can this Common-wealth receive, in the puniſh<g ref="char:EOLhyphen"/>ment of a few inconſiderable Delinquents? But 'tis a <hi>Rule</hi> valid in Law, approved in equity that <hi>Qui non habent in crumen Luant in Corpore.</hi> And 'tis without all queſtion in policy, exemplar puniſhments conduce more to the ſafety of a ſtate, <hi>then pecuniary reparations; Hope of impunity lul's e<g ref="char:EOLhyphen"/>very bad-great-officer into ſecurity for his time, and who would not venture to raiſe a Fortune, when the alurements of honour and wealth are ſo praevalent, if the worſt is can fall be but Reſtitution.</hi>
+            </p>
+            <p>Wee ſee the bad effects of this bold-erroneous opinion; what was at firſt, but corrupt Law; by encouragement taken from their impunity, is ſince become falſe Doctrine, the people taught in Pul<g ref="char:EOLhyphen"/>pits, they have no property, Kings inſtructed in that deſtructive principle, that all is theirs, and is thence deduc'd into neceſſary ſtate-policy, whiſpe<g ref="char:EOLhyphen"/>red in counſell, That he is no Monarch, who is bounded by any <hi>Law.</hi>
+            </p>
+            <p>By which bad conſequences, the beſt of Kings, hath bin by the infuſion of ſuch poyſonous poſi<g ref="char:EOLhyphen"/>tions diverted from the ſweet inclinations of his owne Naturall Equity and Iuſtice, the very eſſence of a King taken from him, which is preſervation
+<pb n="9" facs="tcp:66314:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 39 -->of his people: and whereas <hi>Salus populi</hi> is, or ſhould be <hi>Suprema Lex,</hi> the power of undoing us, is masqu'd under the ſtile of what ſhould be Sacred Royall Prerogative.</p>
+            <p>And is it not high time for us to make exam<g ref="char:EOLhyphen"/>ples of the firſt Authors of this, ſubverted <hi>Law, Bad Counſell, worſe Doctrine?</hi>
+            </p>
+            <p>
+               <hi>Let no man thinke to divert us from the purſuit of Iuſtice, by poyſoning the cleare ſtreames of our af<g ref="char:EOLhyphen"/>fections, with jealous feares of his Majeſties Inter<g ref="char:EOLhyphen"/>ruption, if wee looke too high. Shall wee therefore doubt of Juſtice, becauſe we have need of great Iu<g ref="char:EOLhyphen"/>ſtice? We may be confident the King well knowes, That his Iuſtice is the Band of our alleageance: that 'tis the ſtaffe, the proofe of his Soveraignty.</hi>
+            </p>
+            <p>'Tis a happy aſſurance of his intentions of grace to us, that our Loyalty hath at laſt won him to tender the ſafety of his people: and certainly (all our Preſſures well weighed this 12. Yeares laſt paſt) it will be found the paſſive Loyalty of this ſuffering Nation, hath out-done the active duty of all Times and Stories. As the <hi>Poet</hi> hath it, <hi>fortiter ille facit, qui miſer eſſe poteſt:</hi> I may as properly ſay, <hi>Fideliter fecimus,</hi> we have done loyally to ſuf<g ref="char:EOLhyphen"/>fer ſo <hi>patiently.</hi>
+            </p>
+            <p>Then ſince our Royall <hi>Lord</hi> hath in mercy viſi<g ref="char:EOLhyphen"/>ted us, let not us doubt, but in his Juſtice hee will redeeme his people. <hi>Qui timidè rogat docet ne<g ref="char:EOLhyphen"/>gare.</hi> But when Religion is innovated, our Liber<g ref="char:EOLhyphen"/>ties violated, our Fundamentall Lawes abrogated,
+<pb n="10" facs="tcp:66314:7"/>
+               <!-- PDF PAGE 40 -->our moderne Lawes already obſoleted, the propri<g ref="char:EOLhyphen"/>ety of our Eſtates alienated. Nothing left us, wee can call our own, but our miſery and our patience: if ever any Nation might juſtifiably, this certainly may now, now moſt properly, moſt ſeaſonably cry out, and cry aloud, <hi>vel Sacra Regnet Iuſtitia, vel Ruat Coelum.</hi>
+            </p>
+            <p>Mr. <hi>Speaker,</hi> the ſumme of my humble motion is, that a ſpeciall <hi>Committee</hi> may be appointed, to examine the whole carriage of that Extrajudiciall judgment. Who were the Counſellers, Solici<g ref="char:EOLhyphen"/>ters, and Subſcribers to the ſame: the Reaſons of their Subſcription, whether according to their o<g ref="char:EOLhyphen"/>pinions; by importunity or preſſure of others, whether <hi>pro forma tantum.</hi> And upon re<g ref="char:EOLhyphen"/>port thereof to draw up a charge a<g ref="char:EOLhyphen"/>gainſt the guilty, and then <hi>Currat Lex, Fiat Juſtitia.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66314:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+         </div>
+      </body>
+   </text>
+</TEI>
